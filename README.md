@@ -23,7 +23,7 @@ Tested till Android API Level-25(Nougat v7.1.2) and works fine!, don't know if i
 The Source code will be available on here everytime based on the Apache License v2.0
 
 # To Contributions & to Contributors
-If you modify our source and present a new feature, it would be highly appreciated, you should also state the changes you made to the source. If you are sharing the source somewhere else and not to us, you must still state the changes you made and should be based on the Apache License v2.0
+If you modify our source and present a new feature or fix a bug, it would be highly appreciated, you should also state the changes you made to the source. If you are sharing the source somewhere else and not to us, you must still state the changes you made and should be based on the Apache License v2.0
 
 # Features
 Has all the features of a browser of what you can think of. Experience yourself!!!
