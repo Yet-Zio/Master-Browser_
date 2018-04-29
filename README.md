@@ -21,6 +21,7 @@ Tested till Android API Level-25(Nougat v7.1.2) and works fine!, don't know if i
 
 # What's New in v1.0.4?
 - Fixed issues with signature in some phones.
+- Added support to Android v4.0(Ice-Cream-Sandwich). Lower versions are not supported.
 - Added screen and layout support for all sizes especially tablets.
 
 # About Source
