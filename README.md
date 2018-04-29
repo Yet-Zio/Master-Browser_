@@ -10,8 +10,10 @@ Master-Browser_ is an Android Application which was created by Yet Zio and owned
 # Alternative Platforms
 Master-Browser_ is currently supported only on Android. For other operating systems, it will be made soon.
 
-# Supported versions
+# Supported versions and requirements
 Tested till Android API Level-25(Nougat v7.1.2) and works fine!, don't know if it will work on Oreo and its followed-after versions.
+
+Minimum Android version: v4.x+
 
 # Installation
 - # Download from Github and Install
