@@ -19,6 +19,10 @@ Tested till Android API Level-25(Nougat v7.1.2) and works fine!, don't know if i
 - # Download from our Website and Install
 - If you want to download the apk from our Website, first Visit [Our Website](http://www.masterconsoleblog.wordpress.com)'s Download page and download the apk from there and install. Make sure its the latest one.
 
+# What's New in v1.0.4?
+- Fixed issues with signature in some phones.
+- Added screen and layout support for all sizes especially tablets.
+
 # About Source
 The Source code will be available on here everytime based on the Apache License v2.0
 
