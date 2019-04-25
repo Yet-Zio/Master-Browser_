@@ -1,4 +1,6 @@
-# Master-Browser_
+# Master-Browser_(Discontinued/Archived)
+This was just when i was starting to develop apps for android, thus it lacks some essential features, ui and since i don't have enough time for its development, i am archiving this repo. But don't be sad, maybe i could develop Master-Browser_ v2.
+
 Master-Browser_ is an simple yet enough mastered browser that is fast and simple which works on Android.
 
 Master-Browser_ is an Android Application which was created by Yet Zio and owned by him and his Organisation-Master-Console_. Master-Browser is licensed under the Apache License which is a permissive free software license written by the Apache Software Foundation, [Know More](https://en.wikipedia.org/wiki/Apache_License).
