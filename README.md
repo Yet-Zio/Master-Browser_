@@ -1,5 +1,5 @@
 # Master-Browser_(Discontinued/Archived)
-**I created this when I started programming years back. I didn't even know what to write.**
+## **I created this when I started programming years back. I didn't even know what to write.**
 
 Master-Browser_ is an simple yet enough mastered browser that is fast and simple which works on Android.
 
