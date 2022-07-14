@@ -1,5 +1,5 @@
 # Master-Browser_(Discontinued/Archived)
-This was just when i was starting to develop apps for android, thus it lacks some essential features, ui and since i don't have enough time for its development, i am archiving this repo. But don't be sad, maybe i could develop Master-Browser_ v2.
+**I created this when I started programming years back. I didn't even know what to write.**
 
 Master-Browser_ is an simple yet enough mastered browser that is fast and simple which works on Android.
 
@@ -42,9 +42,6 @@ Has all the features of a browser of what you can think of. Experience yourself!
 - # Beta Testers
 Anonymous(Durgesh): For testing if the apk was installing and working fine with other phones.(Member)
 
-Yet Zio: For Further functions testing.(Main_Developer)
-
-Master-Console_ Inc. Affiliates: For contributing and for storing application in a safe place.(Developers)
 - # Tools
 - Android Studio
 - The Android SDK
